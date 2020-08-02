@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CalendarView">
+        <attr name="cv_color_header_day_label" format="color" />
+        <attr name="cv_color_header_day_background" format="color" />
+        <attr name="cv_color_enabled_day" format="color" />
+        <attr name="cv_color_disabled_day" format="color" />
+        <attr name="cv_color_selection" format="color" />
+        <attr name="cv_color_label_month" format="color" />
+        <attr name="cv_color_label_year" format="color" />
+        <attr name="cv_color_navigation_background_year" format="color" />
+        <attr name="cv_color_navigation_background_month" format="color" />
+        <attr name="cv_color_view_background" format="color" />
+        <attr name="cv_format_label_month" format="string" />
+        <attr name="cv_format_label_year" format="string" />
+        <attr name="cv_bnt_previous" format="reference" />
+        <attr name="cv_bnt_next" format="reference" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+
+
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorLabelYear">#000000</color>
+    <color name="colorLabelMonth">#000000</color>
+    <color name="colorLabelDays">#ffffff</color>
+    <color name="colorBackgroundDays">#54B948</color>
+    <color name="colorEnableDay">#000000</color>
+    <color name="colorDisableDay">#a7a7a7</color>
+    <color name="colorSelection">#FF4081</color>
+    <color name="colorViewBackground">#ebebed</color>
+    <color name="colorNavigationBackgroundMonth">#ffffff</color>
+    <color name="colorNavigationBackgroundYear">#ffffff</color>
+
+
+</resources>
